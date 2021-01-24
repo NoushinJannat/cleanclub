@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@700&display=swap');
+
+nav{
+	height: 102px;
+}
+.navbar-brand{
+	font-family: 'Raleway', sans-serif;
+	color: black;
+}
+.navbar{
+	background-color:#18305D;
+}
+#navbarNav ul li a{
+color: black;
+}
